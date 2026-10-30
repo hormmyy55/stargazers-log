@@ -1,0 +1,23 @@
+[
+  {
+    "name": "freeCodeCamp",
+    "full_name": "freeCodeCamp/freeCodeCamp",
+    "description": "The open-source community that helps you learn to code.",
+    "url": "https://github.com/freeCodeCamp/freeCodeCamp",
+    "starred_at": "2026-10-28"
+  },
+  {
+    "name": "The Algorithms",
+    "full_name": "TheAlgorithms/Python",
+    "description": "All algorithms implemented in Python.",
+    "url": "https://github.com/TheAlgorithms/Python",
+    "starred_at": "2026-10-24"
+  },
+  {
+    "name": "TypeScript",
+    "full_name": "microsoft/TypeScript",
+    "description": "TypeScript is a superset of JavaScript that compiles to clean JavaScript output.",
+    "url": "https://github.com/microsoft/TypeScript",
+    "starred_at": "2026-10-19"
+  }
+]
